@@ -1,2 +1,1 @@
-# trafic--image-detection
-trafic project
+# traffic_sign_recognition
